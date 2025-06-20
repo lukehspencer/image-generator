@@ -7,7 +7,7 @@ async function query(data) {
 		"https://router.huggingface.co/nscale/v1/images/generations",
 		{
 			headers: {
-				Authorization: "Bearer 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",
+				Authorization: "Bearer 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",
 				"Content-Type": "application/json",
 			},
 			method: "POST",
